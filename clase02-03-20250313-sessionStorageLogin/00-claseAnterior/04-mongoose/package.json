@@ -1,0 +1,23 @@
+{
+  "name": "01-expressjs",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "dev": "node --watch ./src/app.js",
+    "dev2": "nodemon ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prueba": "nodemon ./src/app --mode=production --port 8082 --privilegios=root",
+    "dir": "dir /s",
+    "estlin": "lo que corresponda..."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1"
+  }
+}
