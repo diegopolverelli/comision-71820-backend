@@ -1,0 +1,52 @@
+[
+     {
+          "fecha": "2025-03-25T11:50:27.681Z",
+          "error": "fafafa is not defined"
+     },
+     {
+          "fecha": "2025-03-25T11:50:30.288Z",
+          "error": "fafafa is not defined"
+     },
+     {
+          "fecha": "2025-03-25T11:50:31.511Z",
+          "error": "fafafa is not defined"
+     },
+     {
+          "fecha": "2025-03-25T11:50:32.648Z",
+          "error": "fafafa is not defined"
+     },
+     {
+          "fecha": "2025-03-25T11:50:33.846Z",
+          "error": "fafafa is not defined"
+     },
+     {
+          "fecha": "2025-03-25T11:51:39.602Z",
+          "error": "fafafa is not defined",
+          "detalle": "ReferenceError: fafafa is not defined\n    at file:///C:/Users/diego/dev/Coder-M2-semana-71820/clases/clase04-JWT-repaso/clase/02-JWT/src/routes/sessionsRouter.js:23:21\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)"
+     },
+     {
+          "fecha": "2025-03-25T11:51:41.004Z",
+          "error": "fafafa is not defined",
+          "detalle": "ReferenceError: fafafa is not defined\n    at file:///C:/Users/diego/dev/Coder-M2-semana-71820/clases/clase04-JWT-repaso/clase/02-JWT/src/routes/sessionsRouter.js:23:21\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)"
+     },
+     {
+          "fecha": "2025-03-25T11:51:42.195Z",
+          "error": "fafafa is not defined",
+          "detalle": "ReferenceError: fafafa is not defined\n    at file:///C:/Users/diego/dev/Coder-M2-semana-71820/clases/clase04-JWT-repaso/clase/02-JWT/src/routes/sessionsRouter.js:23:21\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)"
+     },
+     {
+          "fecha": "2025-03-25T11:59:08.606Z",
+          "error": "invalid signature",
+          "detalle": "JsonWebTokenError: invalid signature\n    at C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\jsonwebtoken\\verify.js:171:19\n    at getSecret (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\jsonwebtoken\\verify.js:97:14)\n    at module.exports [as verify] (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\jsonwebtoken\\verify.js:101:10)\n    at auth (file:///C:/Users/diego/dev/Coder-M2-semana-71820/clases/clase04-JWT-repaso/clase/02-JWT/src/middleware/auth.js:17:25)\n    at Layer.handle [as handle_request] (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\express\\lib\\router\\index.js:346:12)"
+     },
+     {
+          "fecha": "2025-03-25T12:00:40.023Z",
+          "error": "invalid signature",
+          "detalle": "JsonWebTokenError: invalid signature\n    at C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\jsonwebtoken\\verify.js:171:19\n    at getSecret (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\jsonwebtoken\\verify.js:97:14)\n    at module.exports [as verify] (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\jsonwebtoken\\verify.js:101:10)\n    at auth (file:///C:/Users/diego/dev/Coder-M2-semana-71820/clases/clase04-JWT-repaso/clase/02-JWT/src/middleware/auth.js:17:25)\n    at Layer.handle [as handle_request] (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\express\\lib\\router\\index.js:346:12)"
+     },
+     {
+          "fecha": "2025-03-25T12:00:41.833Z",
+          "error": "invalid signature",
+          "detalle": "JsonWebTokenError: invalid signature\n    at C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\jsonwebtoken\\verify.js:171:19\n    at getSecret (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\jsonwebtoken\\verify.js:97:14)\n    at module.exports [as verify] (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\jsonwebtoken\\verify.js:101:10)\n    at auth (file:///C:/Users/diego/dev/Coder-M2-semana-71820/clases/clase04-JWT-repaso/clase/02-JWT/src/middleware/auth.js:17:25)\n    at Layer.handle [as handle_request] (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase04-JWT-repaso\\clase\\02-JWT\\node_modules\\express\\lib\\router\\index.js:346:12)"
+     }
+]
