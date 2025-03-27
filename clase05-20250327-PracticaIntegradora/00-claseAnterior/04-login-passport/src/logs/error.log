@@ -1,0 +1,12 @@
+[
+     {
+          "fecha": "2025-03-27T11:15:15.128Z",
+          "error": "Expected \"payload\" to be a plain object.",
+          "detalle": "Error: Expected \"payload\" to be a plain object.\n    at validate (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase05-practicaIntegradora\\clase\\00-claseAnterior\\03-login\\node_modules\\jsonwebtoken\\sign.js:44:11)\n    at validatePayload (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase05-practicaIntegradora\\clase\\00-claseAnterior\\03-login\\node_modules\\jsonwebtoken\\sign.js:66:10)\n    at module.exports [as sign] (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase05-practicaIntegradora\\clase\\00-claseAnterior\\03-login\\node_modules\\jsonwebtoken\\sign.js:144:7)\n    at file:///C:/Users/diego/dev/Coder-M2-semana-71820/clases/clase05-practicaIntegradora/clase/00-claseAnterior/03-login/src/routes/sessionsRouter.js:53:23\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)"
+     },
+     {
+          "fecha": "2025-03-27T11:15:21.640Z",
+          "error": "Expected \"payload\" to be a plain object.",
+          "detalle": "Error: Expected \"payload\" to be a plain object.\n    at validate (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase05-practicaIntegradora\\clase\\00-claseAnterior\\03-login\\node_modules\\jsonwebtoken\\sign.js:44:11)\n    at validatePayload (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase05-practicaIntegradora\\clase\\00-claseAnterior\\03-login\\node_modules\\jsonwebtoken\\sign.js:66:10)\n    at module.exports [as sign] (C:\\Users\\diego\\dev\\Coder-M2-semana-71820\\clases\\clase05-practicaIntegradora\\clase\\00-claseAnterior\\03-login\\node_modules\\jsonwebtoken\\sign.js:144:7)\n    at file:///C:/Users/diego/dev/Coder-M2-semana-71820/clases/clase05-practicaIntegradora/clase/00-claseAnterior/03-login/src/routes/sessionsRouter.js:53:23\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)"
+     }
+]

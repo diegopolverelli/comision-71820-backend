@@ -1,0 +1,99 @@
+/* Estilos generales */
+body {
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+}
+
+/* Estilos para el menú */
+.menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  display: inline-block;
+}
+
+.menu a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #333;
+}
+
+.menu a:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+/* Estilos para los formularios */
+form {
+  margin: 20px 0;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type="submit"] {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Estilos para los párrafos y encabezados */
+p {
+  margin-bottom: 10px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 20px 0 10px;
+  font-weight: bold;
+  color: #333;
+}
+
+
+/* Estilos para el div con class error */
+.error {
+  background-color: #ffcccc;
+  color: #cc0000;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 5px;
+}
+
+/* Estilos para el div con class mensaje */
+.mensaje {
+  background-color: #cce5ff;
+  color: #0066cc;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 5px;
+}
+
+/* Estilos para el div con class success */
+.success {
+  background-color: #d4edda;
+  color: #155724;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 5px;
+}
