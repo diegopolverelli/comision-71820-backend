@@ -1,0 +1,30 @@
+[
+     {
+          "id": 1,
+          "nombre": "Juan",
+          "email": "juan@test.com",
+          "password": "123",
+          "rol":"user"
+     },
+     {
+          "id": 2,
+          "nombre": "Diego",
+          "email": "diegopolverelli@test.com",
+          "password": "123",
+          "rol":"user"
+     },
+     {
+          "id": 3,
+          "nombre": "Milagros",
+          "email": "milli@test.com",
+          "password": "123",
+          "rol":"user"
+     },
+     {
+          "id": 4,
+          "nombre": "Romina",
+          "email": "romina@test.com",
+          "password": "123",
+          "rol":"admin"
+     }
+]
